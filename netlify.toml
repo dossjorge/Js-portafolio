@@ -1,3 +1,3 @@
 [build]
-  publish = "dist"
+  publish = "build-output/"
   command = "echo 'default context'"
