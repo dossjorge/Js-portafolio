@@ -1,5 +1,5 @@
 [build]
   publish = "dist"
-  command = "CI= npm run build"
+  command = "npm run build"
 
  
